@@ -2,7 +2,7 @@
   <img src="./assets/cover-thompson.png" height="200" class="tib-load">
   <hr>
 </p>
-<h1 align="center">Hi <img src="./assets/Hi.gif" width="30px" class="tib-load">, I'm small snowflake</h1>
+<h1 align="center">こんにちは <img src="./assets/Hi.gif" width="30px" class="tib-load">,藤本湊です。</h1>
 <h2 align="center">AI & Web3 Specialist | Blockchain Engineer | Full-Stack Developer</h2>
 <p align="center">
 <a href="https://www.linkedin.com/" target="blank"><img align="center" src="./assets/linkedin.svg?tiboriginal" alt="aksia" height="30" width="40" class="tib-load"></a>
